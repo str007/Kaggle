@@ -6,25 +6,25 @@ This repository represents all of the data science-based projects that I have co
 
 ### [Classifying Authors](https://github.com/str007/Portfolio/tree/master/Classifying%20Authors)
 Overview: Attempting to classify authors (Gutenberg) by looking at sentences from their works.   
-Techniques Used:
+Techniques Used: NLP, Unsupervised Learning (clustering), Supervised Learning (several)
 
 ### [Crime in Virginia](https://github.com/str007/Portfolio/tree/master/Crime%20in%20Virginia)
-Overview:
-Techniques Used:
+Overview: Looking at crime-related data in Virginia from 2013, attempting to predict the specific feature of property crime.  
+Techniques Used: Logistic Regression, Lasso/Ridge Logistic Regression
 
 ### [Customer Loyalty](https://github.com/str007/Portfolio/tree/master/Customer%20Loyalty)
-Overview:
-Techniques Used:
+Overview: Using mock customer purchase and demographic data, attempt to customer loyalty.  
+Techniques Used: Supervised Learning (several)
 
 ### [Experimental Design](https://github.com/str007/Portfolio/tree/master/Experimental%20Design)
-Overview:
-Techniques Used:
+Overview: Using company attrition data, attempt to form the basis of a research experiment.  
+Techniques Used: Experimental Design (A/B testing, metrics)
 
 ### [Major League Baseball Attendance](https://github.com/str007/Portfolio/tree/master/Major%20League%20Baseball%20Attendance)
-Overview:
-Techniques Used:
+Overview: Using game record data predict MLB attendance. Also predict day vs. night and weekday vs. weekend games.  
+Techniques Used: Supervised Learning (several), Unsupervised Learning (clustering), Time Series Analysis
 
 ### [Predicting Weather](https://github.com/str007/Portfolio/tree/master/Predicting%20Weather)
-Overview:
-Techniques Used:
+Overview: Using daily weather recordings from Australia, predict whether or not it will rain tomorrow.  
+Techniques Used: Supervised Learning (several)
 
