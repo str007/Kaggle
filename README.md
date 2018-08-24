@@ -9,7 +9,7 @@ This repository represents all of the data science-based projects that I have co
 **Techniques Used:** NLP, Unsupervised Learning (clustering), Supervised Learning (several)
 
 ### [Crime in Virginia](https://github.com/str007/Portfolio/tree/master/Crime%20in%20Virginia)
-**Overview:** Looking at crime-related data in Virginia from 2013, attempting to predict the feature of property crime.  
+**Overview:** Looking at crime-related data in Virginia from 2013, attempting to predict whether or not rape occurred.   
 **Techniques Used:** Logistic Regression, Lasso/Ridge Logistic Regression
 
 ### [Customer Loyalty](https://github.com/str007/Portfolio/tree/master/Customer%20Loyalty)
