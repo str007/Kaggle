@@ -1,8 +1,8 @@
-# Scott's Data Science Portfolio
+# Personal Projects
 
 ## Welcome
 
-This repository represents all of the data science-based projects that I have completed to date. It includes both supervised learning and unsupervised learning work. Datasets have been pulled from many sources, including Kaggle or by use of web scraping. Often, within each project, the feature set(s) will be inputted to several different model types and I will provide my recommendation as to which model best solves our research question. Below is a quick description of each of the projects you will find in my portfolio. After following the link, you will find all associated work in the .ipynb file within the folder.
+This repository represents a sampling of personal data science projects that I have completed to date. It includes both supervised learning and unsupervised learning work. Datasets have been pulled from many sources, including Kaggle or by use of web scraping. Within each project, several feature sets are tested against varying model types, resulting in my recommendation as to which model best solves the defined research question. Below is a quick description of each of the projects you will find in my portfolio. After following the link, you will find all associated work in the .ipynb file within the folder.
 
 ### [Classifying Authors](https://github.com/str007/Portfolio/tree/master/Classifying%20Authors)
 **Overview:** Attempting to classify authors (Gutenberg) by looking at sentences from their works.   
@@ -27,4 +27,3 @@ Techniques Used: Experimental Design (A/B testing, metrics)
 ### [Predicting Weather](https://github.com/str007/Portfolio/tree/master/Predicting%20Weather)
 **Overview:** Using daily weather recordings from Australia, predict whether or not it will rain tomorrow.  
 **Techniques Used:** Supervised Learning (several)
-
